@@ -5,6 +5,8 @@ I create this template 7 days ago, and this free template so you can use it. You
 
 I will update this template weekly or monthly maybe if i'm not busy, so if you want update some fiture without me, i repeat my word "you can customize this template".
 
+You can download in here : https://github.com/Hansc0de/folio/releases/download/Foliov1/folio.zip
+
 This is update log :
 Update Log Version 0.1
 - Added Bootstrap as framework
